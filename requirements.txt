@@ -4,4 +4,4 @@ jira==2.0.0
 bottle==0.12.18
 fpdf==1.7.2
 Jinja2==2.11.3
-ganga==8.5.9
+ganga==8.5.10
